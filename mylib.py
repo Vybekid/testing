@@ -1,0 +1,1 @@
+while True: print(eval(input("Write your expression: ")))
